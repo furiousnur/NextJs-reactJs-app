@@ -1,0 +1,40 @@
+/* styles.css */
+
+/* Navbar container */
+.navbar {
+    background-color: #f8f9fa;
+    text-align: center;
+}
+
+/* Navbar brand */
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+    cursor: pointer;
+    margin-right: auto; /* Pushes the brand/logo to the left */
+}
+
+/* Navigation links container */
+.nav-list {
+    display: flex;
+    list-style: none;
+    padding: 20px;
+}
+
+/* Navigation link items */
+.nav-item {
+    margin-right: 15px;
+}
+
+.nav-link {
+    color: #333;
+    text-decoration: none;
+    transition: color 0.3s;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    color: #007bff;
+}

@@ -1,9 +1,8 @@
-import Product from './Product/Page';
+import Home from './home/page';
 const Page = async () => {
     return (
-        <div>
-            <h1>Home Page</h1>
-            <Product />
+        <div> 
+            <Home />
         </div>
     );
 };
