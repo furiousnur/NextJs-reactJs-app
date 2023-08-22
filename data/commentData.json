@@ -1,0 +1,40 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "body": "This is some awesome thinking!",
+      "blogId": 1,
+      "user": {
+        "id": 63,
+        "username": "eburras1q"
+      }
+    },
+    {
+      "id": 2,
+      "body": "What terrific math skills you’re showing!",
+      "blogId": 1,
+      "user": {
+        "id": 71,
+        "username": "omarsland1y"
+      }
+    },
+    {
+      "id": 3,
+      "body": "You are an amazing writer!",
+      "blogId": 2,
+      "user": {
+        "id": 29,
+        "username": "jissetts"
+      }
+    },
+    {
+      "id": 4,
+      "body": "Wow! You have improved so much!",
+      "blogId": 3,
+      "user": {
+        "id": 19,
+        "username": "bleveragei"
+      }
+    }
+  ]
+}

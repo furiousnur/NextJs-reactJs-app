@@ -18,9 +18,10 @@ export default function Blog() {
                             </div>
                         ));
                     })
-                        .catch(error => (
-                            <p>Error loading posts: {error.message}</p>
-                        ))}
+                    .catch(error => (
+                        <p>Error loading posts: {error.message}</p>
+                    ))
+                }
             </div>
         </div>
     );
